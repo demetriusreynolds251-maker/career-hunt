@@ -1,3 +1,6 @@
+<p align="center"><a href="https://demetriusreynolds251-maker.github.io/career-hunt/"><img src="docs/preview.png" alt="career-hunt preview" width="100%"></a></p>
+<p align="center"><a href="https://demetriusreynolds251-maker.github.io/career-hunt/"><b>▶ See how it works</b></a></p>
+
 <p align="center"><img src="images/career-hunt-logo.png" width="110" alt="Career Hunt logo"></p>
 
 # 🎯 Career Hunt
