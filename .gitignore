@@ -1,0 +1,8 @@
+secrets/
+logs/
+drafts/
+contacts/
+__pycache__/
+*.pyc
+.DS_Store
+*.imgsrc.html
