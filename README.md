@@ -59,7 +59,7 @@ Needs a Discord bot with **Message Content Intent** on. LinkedIn posting needs a
 
 ## More from me
 
-🌐 [About me](https://demetriusreynolds251-maker.github.io) · 🧪 [Apex: sports analytics system](https://demetriusreynolds251-maker.github.io/apex/) · 🤝 [LinkedIn](https://www.linkedin.com/in/demetrius-reynolds-655293421/)
+🌐 [About me](https://demetriusreynolds251-maker.github.io) · 🧪 [Apex: sports analytics system](https://demetriusreynolds251-maker.github.io/apex/) · 🤝 [LinkedIn](https://www.linkedin.com/in/demetrius-reynolds/)
 
 ## License
 
